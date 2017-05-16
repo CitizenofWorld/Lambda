@@ -1,0 +1,20 @@
+.header {
+	background-color: red;
+	height: 200px;
+}
+.container {
+	background-color: yellow;
+	height: 1050px;
+}
+.content {
+	background-color: blue;
+	height: 950px;
+	width: 70%;
+	margin: auto;
+}
+.footer {
+	background-color: green;
+	height: 100px;
+	width: 70%;
+	margin: auto;
+}
