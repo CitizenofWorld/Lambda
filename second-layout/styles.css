@@ -1,0 +1,26 @@
+.header{
+	background-color: red;
+	height: 200px;
+}
+.container{
+	display: flex;
+}
+.blue{
+	background-color: blue;
+	height: 800px;
+	width: 33%;
+}
+.purple{
+	background-color: purple;
+	height: 800px;
+	width: 33%;
+}
+.yellow{
+	background-color: yellow;
+	height: 800px;
+	width: 33%;
+}
+.footer{
+	background-color: green;
+	height: 200px;
+}
